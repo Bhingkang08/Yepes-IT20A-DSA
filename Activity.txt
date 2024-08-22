@@ -1,0 +1,3 @@
+Name:Joy Marie O. Yepes
+Course:IT20A
+Activity : Basics of Git and GitHub
